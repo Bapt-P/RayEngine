@@ -1,4 +1,4 @@
-# RayEngine
+# RayEngine (Windows)
 RayEngine is a raycasting game engine made with SFML. 
 It is in development (ft. Haiwa)
 
